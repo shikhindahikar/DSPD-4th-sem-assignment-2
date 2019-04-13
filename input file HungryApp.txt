@@ -1,0 +1,54 @@
+4
+radisson
+narendranagar
+hotel
+NorthIndian
+chickenalfredo 24.00
+pastared 124.00
+broccolli 432.00
+beef 123.00
+mutton 131.00
+4
+mediangrilled
+manishnagar
+cafe
+SouthIndian
+paneerbuttermasala 324.00
+dal 123.00
+tandoorichicken 532.00
+jasminerice 343.00
+nan 244.00
+4
+casablanca
+somalwada
+pub
+Continental
+paratha 37.00
+lassi 25.00
+omelet 27.00
+breadpakoda 22.00
+chai 15.00
+5
+denny
+manishnagar
+817237221
+6
+erika
+somalwada
+9787632711
+6
+christina
+narendranagar
+726392117
+5
+vinay
+narendranagar
+8126473923
+6
+nishii
+manishnagar
+9123718346
+5
+anthony
+somalwada
+2020147
